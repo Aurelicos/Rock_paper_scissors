@@ -4,10 +4,10 @@ A simple program in Console app .net framework C#
 
 Base description of my program:
 
+- first we ask the user if he wants to play
+ ```C#
+Console.Write("\nDo you want to play Rock, paper, scissors? (yes/no) ");    
 
-Console.Write("\nDo you want to play Rock, paper, scissors? (yes/no) ");    - first we ask the user if he wants to play
-
-```C#
 string answer = Console.ReadLine();
 ```
 - and if his answer is yes, the program will continue, and if the answer is no, the program will end:
