@@ -2,7 +2,7 @@
 A simple program in Console app .net framework C# 
 
 
-Base description od my program:
+Base description of my program:
 
 
 Console.Write("\nDo you want to play Rock, paper, scissors? (yes/no) ");    - first we ask the user if he wants to play
