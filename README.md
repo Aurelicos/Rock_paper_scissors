@@ -50,3 +50,6 @@ and the winner will be written to the console.
 
 
 Thank you for downloading my simple program for rock scissors and paper. Enjoy it!
+
+<br></br>
+<h3>If there are any problems write to my discord:</h3><a href="https://discordapp.com/users/869579499266793512" target="_blank" title="My discord account" id="logo" target="_blank" data-hveid="8"><img src="https://jablickar.cz/wp-content/uploads/2021/03/Discord-logo.png.webp" height="50" width="80"></a>
